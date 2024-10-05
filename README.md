@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raid</h1>
-<h3 align="center">A passionate full Stack developer from Algeria</h3>
+<h3 align="center">A passionate Android & Backend developer from Algeria</h3>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=radx007&" alt="radx8" /></p>
 <h3 align="left">Languages and Tools:</h3>
